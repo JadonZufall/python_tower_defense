@@ -1,2 +1,2 @@
 # python_tower_defend
-I made this in a few hours for fun so it's pretty bad
+A quickly made tower defence concept made in under an hour.
